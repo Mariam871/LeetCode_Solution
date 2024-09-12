@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +49,16 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
