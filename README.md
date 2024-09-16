@@ -59,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mariam871/LeetCode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mariam871/LeetCode_Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
