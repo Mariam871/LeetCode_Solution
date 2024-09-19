@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mariam871/LeetCode_Solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Mariam871/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
@@ -17,6 +18,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mariam871/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
