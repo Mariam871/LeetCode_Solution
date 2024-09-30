@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
