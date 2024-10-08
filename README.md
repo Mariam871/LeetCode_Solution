@@ -15,6 +15,7 @@
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
