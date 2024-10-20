@@ -86,6 +86,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mariam871/LeetCode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [1197-parsing-a-boolean-expression](https://github.com/Mariam871/LeetCode_Solution/tree/master/1197-parsing-a-boolean-expression) |
 ## Game Theory
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Mariam871/LeetCode_Solution/tree/master/1197-parsing-a-boolean-expression) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3195-separate-black-and-white-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3195-separate-black-and-white-balls) |
@@ -157,6 +159,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Mariam871/LeetCode_Solution/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Mariam871/LeetCode_Solution/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
