@@ -27,6 +27,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mariam871/LeetCode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -88,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
