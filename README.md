@@ -28,6 +28,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Stack
 |  |
