@@ -27,6 +27,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mariam871/LeetCode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -44,6 +45,7 @@
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mariam871/LeetCode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
