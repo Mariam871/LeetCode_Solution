@@ -68,6 +68,7 @@
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mariam871/LeetCode_Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Two Pointers
 |  |
@@ -127,12 +128,14 @@
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mariam871/LeetCode_Solution/tree/master/1197-parsing-a-boolean-expression) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3195-separate-black-and-white-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Linked List
 |  |
