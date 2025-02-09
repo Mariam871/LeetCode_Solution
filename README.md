@@ -29,6 +29,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mariam871/LeetCode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mariam871/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mariam871/LeetCode_Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -74,6 +75,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Mariam871/LeetCode_Solution/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mariam871/LeetCode_Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -94,6 +96,7 @@
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Linked List
 |  |
