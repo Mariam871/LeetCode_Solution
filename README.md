@@ -21,6 +21,7 @@
 | [1002-maximum-width-ramp](https://github.com/Mariam871/LeetCode_Solution/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mariam871/LeetCode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mariam871/LeetCode_Solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -102,6 +104,7 @@
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
@@ -187,6 +190,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Mariam871/LeetCode_Solution/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
@@ -242,4 +246,8 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mariam871/LeetCode_Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
