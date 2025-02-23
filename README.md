@@ -18,6 +18,7 @@
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Mariam871/LeetCode_Solution/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
@@ -270,6 +272,7 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -284,6 +287,11 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
