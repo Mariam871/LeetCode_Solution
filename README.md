@@ -35,6 +35,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mariam871/LeetCode_Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mariam871/LeetCode_Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -275,15 +276,18 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,4 +298,8 @@
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
