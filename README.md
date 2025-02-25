@@ -23,6 +23,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mariam871/LeetCode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mariam871/LeetCode_Solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -111,6 +113,7 @@
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mariam871/LeetCode_Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
