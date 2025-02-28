@@ -143,6 +143,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mariam871/LeetCode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
@@ -163,6 +164,7 @@
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mariam871/LeetCode_Solution/tree/master/1197-parsing-a-boolean-expression) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mariam871/LeetCode_Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
