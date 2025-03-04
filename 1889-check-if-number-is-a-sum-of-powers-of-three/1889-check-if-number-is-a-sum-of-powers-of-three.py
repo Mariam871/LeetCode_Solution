@@ -5,4 +5,4 @@ class Solution:
                 return False
             n //= 3  # Reduce n by dividing by 3
         return True
-
+        
