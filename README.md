@@ -54,6 +54,7 @@
 | [3429-special-array-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mariam871/LeetCode_Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Mariam871/LeetCode_Solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mariam871/LeetCode_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3643-zero-array-transformation-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
