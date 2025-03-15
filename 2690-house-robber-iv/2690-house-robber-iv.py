@@ -8,7 +8,6 @@ class Solution:
                     i += 1  # Skip the next house after robbing
                 i += 1
             return count >= k
-
         left, right = min(nums), max(nums)
         while left < right:
             mid = (left + right) // 2
