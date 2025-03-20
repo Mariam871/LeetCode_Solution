@@ -54,6 +54,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mariam871/LeetCode_Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mariam871/LeetCode_Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/3429-special-array-i) |
@@ -162,6 +163,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mariam871/LeetCode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Mariam871/LeetCode_Solution/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Mariam871/LeetCode_Solution/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -363,8 +365,13 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mariam871/LeetCode_Solution/tree/master/2610-closest-prime-numbers-in-range) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
