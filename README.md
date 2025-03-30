@@ -114,6 +114,7 @@
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
@@ -143,6 +144,7 @@
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mariam871/LeetCode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mariam871/LeetCode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -220,6 +222,7 @@
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1170-shortest-common-supersequence) |
@@ -330,6 +333,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mariam871/LeetCode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Mariam871/LeetCode_Solution/tree/master/3195-separate-black-and-white-balls) |
