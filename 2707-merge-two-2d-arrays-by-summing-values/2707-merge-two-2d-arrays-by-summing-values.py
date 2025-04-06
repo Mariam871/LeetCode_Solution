@@ -2,27 +2,14 @@ from typing import List
 
 class Solution:
     def mergeArrays(self, nums1: List[List[int]], nums2: List[List[int]]) -> List[List[int]]:
-        i, j = 0, 0
-        result = []
+        value_map = {}
 
-        while i < len(nums1) and j < len(nums2):
-            if nums1[i][0] == nums2[j][0]:  # Same id, sum values
-                result.append([nums1[i][0], nums1[i][1] + nums2[j][1]])
-                i += 1
-                j += 1
-            elif nums1[i][0] < nums2[j][0]:  # nums1 has a smaller id
-                result.append(nums1[i])
-                i += 1
-            else:  # nums2 has a smaller id
-                result.append(nums2[j])
-                j += 1
+        for id_, val in nums1:
+            value_map[id_] = value_map.get(id_, 0) + val
 
-        # Append remaining elements
-        while i < len(nums1):
-            result.append(nums1[i])
-            i += 1
-        while j < len(nums2):
-            result.append(nums2[j])
-            j += 1
+        for id_, val in nums2:
+            value_map[id_] = value_map.get(id_, 0) + val
 
+        # Convert the dictionary to a sorted list of [id, value]
+        result = [[id_, value_map[id_]] for id_ in sorted(value_map)]
         return result
