@@ -1,6 +1,3 @@
-from typing import List
-from collections import Counter
-
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
         # Step 1: If any number is less than k, we can never increase it → impossible
