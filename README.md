@@ -247,6 +247,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Mariam871/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
