@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Mariam871/LeetCode_Solution/tree/master/0739-daily-temperatures) |
+| [0797-rabbits-in-forest](https://github.com/Mariam871/LeetCode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -125,6 +126,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Mariam871/LeetCode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
@@ -173,6 +175,7 @@
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Mariam871/LeetCode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [0797-rabbits-in-forest](https://github.com/Mariam871/LeetCode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mariam871/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mariam871/LeetCode_Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Mariam871/LeetCode_Solution/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Mariam871/LeetCode_Solution/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mariam871/LeetCode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
