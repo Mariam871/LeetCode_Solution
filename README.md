@@ -178,6 +178,7 @@
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mariam871/LeetCode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mariam871/LeetCode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -250,6 +251,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mariam871/LeetCode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Mariam871/LeetCode_Solution/tree/master/0486-predict-the-winner) |
+| [0868-push-dominoes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -277,6 +279,7 @@
 | [0214-shortest-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/1170-shortest-common-supersequence) |
