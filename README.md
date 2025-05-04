@@ -25,6 +25,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Mariam871/LeetCode_Solution/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mariam871/LeetCode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mariam871/LeetCode_Solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
@@ -146,6 +147,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mariam871/LeetCode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Mariam871/LeetCode_Solution/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Mariam871/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
