@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Mariam871/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mariam871/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mariam871/LeetCode_Solution/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mariam871/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
@@ -245,6 +247,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/Mariam871/LeetCode_Solution/tree/master/0368-largest-divisible-subset) |
