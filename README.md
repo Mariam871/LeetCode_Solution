@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Mariam871/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mariam871/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mariam871/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -366,6 +368,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mariam871/LeetCode_Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mariam871/LeetCode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
