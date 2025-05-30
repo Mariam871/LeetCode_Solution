@@ -521,6 +521,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mariam871/LeetCode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Mariam871/LeetCode_Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mariam871/LeetCode_Solution/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -548,6 +549,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mariam871/LeetCode_Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mariam871/LeetCode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Mariam871/LeetCode_Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mariam871/LeetCode_Solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
