@@ -26,6 +26,7 @@
 | [0859-design-circular-deque](https://github.com/Mariam871/LeetCode_Solution/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mariam871/LeetCode_Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mariam871/LeetCode_Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/Mariam871/LeetCode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/Mariam871/LeetCode_Solution/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mariam871/LeetCode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Mariam871/LeetCode_Solution/tree/master/0945-snakes-and-ladders) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mariam871/LeetCode_Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mariam871/LeetCode_Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -527,6 +529,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Mariam871/LeetCode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mariam871/LeetCode_Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Mariam871/LeetCode_Solution/tree/master/2564-most-profitable-path-in-a-tree) |
