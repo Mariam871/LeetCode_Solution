@@ -300,6 +300,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mariam871/LeetCode_Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Mariam871/LeetCode_Solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mariam871/LeetCode_Solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mariam871/LeetCode_Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Mariam871/LeetCode_Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mariam871/LeetCode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
