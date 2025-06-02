@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Mariam871/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mariam871/LeetCode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Mariam871/LeetCode_Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Mariam871/LeetCode_Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mariam871/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mariam871/LeetCode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -461,6 +462,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Mariam871/LeetCode_Solution/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Mariam871/LeetCode_Solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mariam871/LeetCode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mariam871/LeetCode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
