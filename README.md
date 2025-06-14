@@ -241,6 +241,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Mariam871/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Mariam871/LeetCode_Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Mariam871/LeetCode_Solution/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mariam871/LeetCode_Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mariam871/LeetCode_Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Mariam871/LeetCode_Solution/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mariam871/LeetCode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
@@ -475,6 +476,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mariam871/LeetCode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Mariam871/LeetCode_Solution/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mariam871/LeetCode_Solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mariam871/LeetCode_Solution/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mariam871/LeetCode_Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mariam871/LeetCode_Solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
