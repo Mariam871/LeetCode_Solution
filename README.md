@@ -138,6 +138,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mariam871/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mariam871/LeetCode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mariam871/LeetCode_Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mariam871/LeetCode_Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Mariam871/LeetCode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mariam871/LeetCode_Solution/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -354,6 +355,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mariam871/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mariam871/LeetCode_Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mariam871/LeetCode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mariam871/LeetCode_Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mariam871/LeetCode_Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mariam871/LeetCode_Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Mariam871/LeetCode_Solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
